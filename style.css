@@ -568,6 +568,22 @@ footer ul li a:hover{
         
         font-weight: 500;
     }
+    #page2{
+        height: 175%;
+        width: 100%;
+        padding: 50px;
+        /* background-color: chocolate; */
+    }
+    .box{
+        height: 250px;
+        width: 250px;
+        /* background-color: red; */
+        border-radius: 10px;
+        display: inline-block;
+        margin: 25px;
+        position: relative;
+        overflow: hidden;
+    }
     #box2{
         height: 85%;
         width: 100%;
